@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MehmetSunguralp
 - 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning the basics
 - 💞️ I’m looking forward to collaborate on anything I could help 🤘
 - 📫 mehmetsunguralp54@gmail.com
 
