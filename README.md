@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmetsunguralp&label=Profile%20views&color=0e75b6&style=flat" alt="mehmetsunguralp" /> </p>
 
-- 🔭 I’m currently working for the company kedy.ai
-
 - 👨🏻‍💼 My company related contributions → https://github.com/mehmetalpp
 
-- 💬 Ask me about **JavaScript, TypeScript, React.js, Next.js, SASS**
+- 💬 Ask me about **JavaScript, TypeScript, React.js, Next.js, Nest.js, SASS, Material UI**
 
 - 📫 How to reach me **mehmetsunguralp54@gmail.com**
 
